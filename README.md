@@ -11,7 +11,7 @@ This is a simple cat runner game created using unity. The player is supposed to 
 <img src="https://github.com/ArjunKVarma/Cat-simulator-Unity-/blob/main/Files/game.jpg" alt="Game" width="500" height="300"/>
 
 
-Sprites © @[FreePi](https://www.freepik.com/) open-source liscense
+Sprites © @[FreePik](https://www.freepik.com/) 
 
 ## License
 MIT
